@@ -5,12 +5,12 @@ REQUIREMENTS
 --pip textblob
 --pip tweepy
 --download the given dataset
---connection to the internet
+--connect to the internet
 
 DESCRIPTION
---IT returns a dataframe with Country,City,Positive Sentiemnt,Negative Sentiment,Neutral Sentiment,Tweets longitude, latitude
---Returns a .csv file of dataframe
+--returns a dataframe with Country, City, Positive Sentiment, Negative Sentiment, Neutral Sentiment, Tweets, Longitude and Latitude
+--returns a .csv file of dataframe
 
 USAGE
---Create a object of the class PublicSentiment and call compileModel("Enter the hashtag")
+--create a object of the class PublicSentiment and call compileModel("Enter the hashtag")
 
