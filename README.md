@@ -1,4 +1,4 @@
-# Innovaccer-API-Engineering-Case-Study
+# Sentiment Analysis Model
 
 REQUIREMENTS
 --pip pandas as pd
